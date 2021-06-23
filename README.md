@@ -9,7 +9,7 @@ Assignment breakdown:
 
 Video marking works well, takes a long time to load though
 
-Image stitching does not work because homographies are not being properly calculated. If you have any notes please let me know! I will still be working on this for my own personal use so any help would be appreciated.
+Image stitching does not work because homographies are not being properly calculated. If you have any notes please let me know!
 
 additonally the program can take in just one image and output useful information
 
